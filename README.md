@@ -7,3 +7,10 @@
 Старая не обновляется в гитхабе.
 На страничке членов экипажа, при открытии в ноуте фото закрывает эл адрес внизу странички
 При загрузке фонта из googlefonts справа появляется один и тот же линк
+
+Commands to use when a new repository is cloned:
+
+```shell
+git config user.email $EMAIL
+git config user.name $USERNAME
+```
