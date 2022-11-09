@@ -11,6 +11,6 @@
 Commands to use when a new repository is cloned:
 
 ```shell
-git config user.email $EMAIL
-git config user.name $USERNAME
+git config user.email "forward28@inbox.lv"
+git config user.name "forward28"
 ```
